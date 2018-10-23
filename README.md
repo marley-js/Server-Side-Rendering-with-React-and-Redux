@@ -43,6 +43,25 @@ https://github.com/StephenGrider/ReactSSRCasts
 
 ![Application](/img/pic02.png?raw=true)
 
+
+<br/>
+
+## 03 Server Configuration
+
+    $ npm run dev:server
+    $ npm run dev:build:server
+    $ npm run dev:build:client
+
+
+<br/>
+
+![Application](/img/pic3-01.png?raw=true)
+
+<br/>
+
+![Application](/img/pic3-02.png?raw=true)
+
+
 ---
 
 **Marley**
