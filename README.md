@@ -62,6 +62,11 @@ https://github.com/StephenGrider/ReactSSRCasts
 ![Application](/img/pic3-02.png?raw=true)
 
 
+<br/>
+
+## 04 Refactoring for Cleaner Code
+
+
 ---
 
 **Marley**
