@@ -66,6 +66,11 @@ https://github.com/StephenGrider/ReactSSRCasts
 
 ## 04 Refactoring for Cleaner Code
 
+<br/>
+
+## 05 Adding Navigation
+
+http://localhost:3000/hi
 
 ---
 
