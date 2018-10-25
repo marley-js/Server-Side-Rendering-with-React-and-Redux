@@ -90,6 +90,16 @@ http://localhost:3000/users
 
 ![Application](/img/pic7-01.png?raw=true)
 
+<br/>
+
+## 08 Organization with Page Components
+
+<br/>
+
+window.INITIAL_STATE
+
+![Application](/img/pic7-08.png?raw=true)
+
 ---
 
 **Marley**
