@@ -72,6 +72,16 @@ https://github.com/StephenGrider/ReactSSRCasts
 
 http://localhost:3000/hi
 
+<br/>
+
+## 06 Integrating Support for Redux
+
+http://localhost:3000/users
+
+<br/>
+
+![Application](/img/pic6-01.png?raw=true)
+
 ---
 
 **Marley**
