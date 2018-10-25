@@ -82,6 +82,14 @@ http://localhost:3000/users
 
 ![Application](/img/pic6-01.png?raw=true)
 
+<br/>
+
+## 07 Server Side Data Loading
+
+<br/>
+
+![Application](/img/pic7-01.png?raw=true)
+
 ---
 
 **Marley**
