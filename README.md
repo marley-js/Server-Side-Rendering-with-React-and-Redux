@@ -98,7 +98,18 @@ http://localhost:3000/users
 
 window.INITIAL_STATE
 
-![Application](/img/pic7-08.png?raw=true)
+<br/>
+
+![Application](/img/pic8-01.png?raw=true)
+
+<br/>
+
+## 09 Authentication in a Server Side Rendering World
+
+<br/>
+
+![Application](/img/pic9-01.png?raw=true)
+
 
 ---
 
