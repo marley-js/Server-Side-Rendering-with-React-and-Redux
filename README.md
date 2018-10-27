@@ -110,6 +110,11 @@ window.INITIAL_STATE
 
 ![Application](/img/pic9-01.png?raw=true)
 
+<br/>
+
+## 10 Error Handling
+
+
 
 ---
 
