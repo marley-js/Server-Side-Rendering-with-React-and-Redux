@@ -114,6 +114,14 @@ window.INITIAL_STATE
 
 ## 10 Error Handling
 
+<br/>
+
+## 11 Adding Better SEO Support
+
+http://ogp.me  
+https://github.com/nfl/react-helmet  
+
+
 
 
 ---
